@@ -21,6 +21,6 @@ public class NodeDriver {
         System.out.println("getChild test = " + n2.getChild());
         System.out.println("getParent test = " + n1.getParent());
         System.out.println("getData test = " + n3.getData());
-        
+
     }
 }
