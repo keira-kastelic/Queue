@@ -20,7 +20,7 @@ public class Node<N> {
     // methods
     // accessors
     public Node<N> getParent(){ // creating a get parent accessor method
-        return parent; // accesing parent
+        return parent; // accessing parent
     }
 
     public Node<N> getChild(){ // creating a get child accessor method
